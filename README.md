@@ -7,6 +7,7 @@
 - Gson
 - SharedPreference DataStore
 - Media Image
+- Jetpack Compose Glance
 
 ## Asset
 - timetable.json (강의)
@@ -37,6 +38,10 @@ https://github.com/Jokwanhee/compose-timetable/assets/90740783/67ed2862-75cd-458
 
 ### 시간표 갤러리 저장
 https://github.com/Jokwanhee/compose-timetable/assets/90740783/d049a1d6-c81f-4982-bcdf-934dd44ae47f
+
+
+### 시간표 위젯 & 시간표 컬러 템플릿
+https://github.com/Jokwanhee/compose-timetable/assets/90740783/b41a3b0d-3b47-4a2b-b97c-afdb7b6e9285
 
 
 
