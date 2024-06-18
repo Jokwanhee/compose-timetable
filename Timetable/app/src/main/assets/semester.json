@@ -1,0 +1,44 @@
+{
+  "semesters" : [
+    {
+      "id": 10,
+      "semester": "20241"
+    },
+    {
+      "id": 9,
+      "semester": "20232"
+    },
+    {
+      "id": 8,
+      "semester": "20231"
+    },
+    {
+      "id": 7,
+      "semester": "20222"
+    },
+    {
+      "id": 6,
+      "semester": "20221"
+    },
+    {
+      "id": 5,
+      "semester": "20212"
+    },
+    {
+      "id": 4,
+      "semester": "20211"
+    },
+    {
+      "id": 3,
+      "semester": "20202"
+    },
+    {
+      "id": 2,
+      "semester": "20201"
+    },
+    {
+      "id": 1,
+      "semester": "20192"
+    }
+  ]
+}
